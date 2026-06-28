@@ -14,4 +14,4 @@ function findAverage(arr) {
 
 console.log(divide(10, 0));
 console.log(findAverage([1,2,3]));
-testing 1
+
